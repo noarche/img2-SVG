@@ -2,7 +2,7 @@
 
   Batch convert image files into vector (.SVG) or icon (.ico) files easily and quickly. 
 
-     This app creates a new directory to save SVG and ICO files. The new directory is located inside the directory you choose to process. Original images remain unchanged.
+   This app creates a new directory to save SVG and ICO files. The new directory is located inside the directory you choose to process. Original images remain unchanged.
 
 
 #  ꧁꧂ How to use
